@@ -1,6 +1,6 @@
 # Bollywood Hungama App
 
-![Android Apk - Release & Google Play Publish](https://github.com/siristechnology/bhn-app/workflows/Android%20Apk%20-%20Release%20&%20Google%20Play%20Publish/badge.svg)
+[![Android Apk - Build & Release](https://github.com/siristechnology/bhn-app/actions/workflows/android-build-publish.yml/badge.svg)](https://github.com/siristechnology/bhn-app/actions/workflows/android-build-publish.yml)
 [![DeepScan grade](https://deepscan.io/api/teams/5348/projects/7146/branches/66889/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5348&pid=7146&bid=66889)
 [![Known Vulnerabilities](https://snyk.io/test/github/siristechnology/bhn-app/badge.svg?targetFile=android/app/build.gradle)](https://snyk.io/test/github/siristechnology/bhn-app?targetFile=android/app/build.gradle)
 
